@@ -29,6 +29,6 @@ make_predictor_matrix=function(x){
   return(X)
 }
 
-
+#Writing this line after the first commit. I had tried out speeding up my code before using github/git.
 
 

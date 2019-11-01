@@ -30,3 +30,5 @@ test_that("make_predictor_matrix works on simple cases", {
 
 
 microbenchmark::microbenchmark(llr(x, y, z, omega = 1))%>%print()
+
+#Writing this line after the first commit. I had tried out speeding up my code before using github/git.
